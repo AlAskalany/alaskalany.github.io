@@ -1,5 +1,7 @@
 title: Ahmed AlAskalany
 description: GitHub Pages
 theme: jekyll-theme-cayman
+repository: alaskalany/alaskalany.github.io
 plugins:
   - jekyll-coffeescript
+  - "jekyll-github-metadata"
