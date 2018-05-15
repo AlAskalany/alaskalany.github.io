@@ -1,5 +1,4 @@
-Gem::Specification.new
-do |s|
+Gem::Specification.new do |s|
   s.name          = 'Ahmed-AlAskalany-GitHub-Pages'
   s.version       = '0.0.1'
   s.license       = 'CC0-1.0'
